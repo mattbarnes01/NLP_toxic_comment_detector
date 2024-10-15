@@ -5,4 +5,4 @@ The model has an accuracy of around 0.99 and performs extremely well on my test 
 ## Make Predictions
 If anyone wishes to use my code and make predictions they can find a gradio interface at the bottom of the toxicity.ipynb file to experiment with the model.
 ## Other files
-labelled_data.csv is the original dataset i downloaded from Kaggle. Requirements.txt contains the packages required to run my code. Model.h5 is the saved version of my NN. Toxicity.ipynb is the main file containing all my code.
+labelled_data.csv is the original dataset i downloaded from Kaggle. Requirements.txt contains the packages required to run my code. Model.keras is the saved version of my NN. Toxicity.ipynb is the main file containing all my code.
